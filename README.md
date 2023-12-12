@@ -39,8 +39,7 @@
 ### Deployment
 - Tensorflow hub or Hugging Face
 - https://www.tensorflow.org/hub
-### To Body Scratch Team: 
-Thank you for this challenge, I learnt a lot and I will continue to work on it in the next days. If you want, I always appreciate feedback and/or tips. Looking forward to hearning back from you - bye
+
 
 ## Sources
 #### Documentation
